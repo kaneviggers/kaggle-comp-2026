@@ -1,0 +1,9 @@
+.venv
+dataset
+.env
+.DS_Store
+.ipynb_checkpoints/
+.jupyter/
+.jupyter_ystore.db
+cache_128.u8
+*.pt
